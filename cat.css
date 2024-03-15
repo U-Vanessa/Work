@@ -1,0 +1,88 @@
+*{
+    font-family: sans-serif;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    color: white;
+    margin: 0;
+    padding: 0;
+    background: url(https://papers.co/wallpaper/papers.co-mc56-wallpaper-galaxy-blue-7-starry-star-sky-36-3840x2400-4k-wallpaper.jpg);
+  }
+  
+  header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+  }
+  
+  header h1 {
+    margin: 0;
+  }
+  nav{
+    margin: 0px;
+    padding: 4px auto ;
+    color: whitesmoke;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    background: rgba(8, 39, 80, 0.404);
+  }
+  .VAAC{
+    margin: 20px;
+    padding: 0px;
+    justify-content: center;
+    display: flex;
+  }
+  .VAAC h2{
+    background: blue;
+    padding: 20px;
+  }
+  .dis{
+    margin: 7px;
+    padding: 0px;
+    justify-content: center;
+    display: flex;
+  }
+  .expo{
+    margin: 7px;
+    padding: 0px;
+    justify-content: center;
+    display: flex;
+  }
+
+  #main-content {
+    padding: 20px;
+  }
+  
+  .meet{
+    display: flex;
+    margin: 20px;
+    padding: 0px;
+    justify-content: center;
+  }
+
+  .meet h3{
+    background: blue;
+    padding: 20px;
+
+  }
+  .team {
+    display: flex;
+    margin: 10px;
+    padding: 20px;
+    margin-bottom: 20px;
+    align-items: center;
+    justify-content: center;
+  }
+  .needs{
+    margin: 50px;
+  }
+  
+  footer {
+    background-color: #7472721e;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+  
